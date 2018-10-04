@@ -7,3 +7,7 @@ It’s work in xampp or Linux server LAMP environment(no need database for this 
 Defult login username password is admin/1234.
 You can change username/passwrod from login.php file in line number #6
 
+How to set up in linux system please check this URL 
+
+https://www.rajlinuxblogger.com/2018/10/free-employee-monitoring-for-linux.html
+
