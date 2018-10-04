@@ -5,5 +5,5 @@
 It’s work in xampp or Linux server LAMP environment(no need database for this configuration )
 
 Defult login username password is admin/1234.
-You can change username/passwrod from login.php file in line number 6
+You can change username/passwrod from login.php file in line number #6
 
