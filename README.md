@@ -9,5 +9,5 @@ You can change username/passwrod from login.php file in line number #6
 
 How to set up in linux system please check this URL 
 
-https://www.amazoncloudlinux.com/2018/12/linux-system-free-employee-monitoring-with-automatic.html
+http://amazoncloudlinux.blogspot.com/2018/12/linux-system-free-employee-monitoring-with-automatic.html
 
